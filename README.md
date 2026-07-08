@@ -45,4 +45,20 @@ Cada laboratorio incluye:
 
 ---
 
+## 📈 Progreso
+
+| Laboratorio | Estado |
+|-------------|--------|
+| Configuración de GitHub | ✅ Completado |
+| LAB-01 Microsoft Sentinel | ⏳ En progreso |
+| LAB-02 Log Analytics | ⏳ Pendiente |
+| LAB-03 Data Connectors | ⏳ Pendiente |
+| LAB-04 KQL | ⏳ Pendiente |
+| LAB-05 Analytics Rules | ⏳ Pendiente |
+| LAB-06 Incidents | ⏳ Pendiente |
+| LAB-07 Threat Hunting | ⏳ Pendiente |
+| LAB-08 MITRE ATT&CK | ⏳ Pendiente |
+| LAB-09 Logic Apps | ⏳ Pendiente |
+| LAB-10 Proyecto Final | ⏳ Pendiente |
+
 **Autor:** Jhon Osma
